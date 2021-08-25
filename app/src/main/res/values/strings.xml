@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorldSkills10</string>
+    <string name="title_home">Categorias</string>
+    <string name="title_dashboard">Pedido</string>
+    <string name="title_notifications">Historial</string>
+
+</resources>
